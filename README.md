@@ -4,7 +4,7 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: email_id@xxxxx.com 
+✉️: email_id@email.com 
 &nbsp;&nbsp; 📲 +91-XXXXXXXXXX
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
@@ -14,7 +14,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://raw.githubusercontent.com/PracheeJ/Prachee_jha/main/images/Screenshot%20(2).png)
 
 <!-- Add your details -->
 
